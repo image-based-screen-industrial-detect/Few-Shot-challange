@@ -1,5 +1,5 @@
 {
-	"token": "<evalai_user_auth_token>",
-	"team_pk": "<host_team_pk>",
-	"evalai_host_url": "<evalai_host_url>"
+	"token": "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",
+	"team_pk": "4014",
+	"evalai_host_url": "https://eval.ai"
 }
