@@ -1,14 +1,14 @@
 # If you are not sure what all these fields mean, please refer our documentation here:
 # https://evalai.readthedocs.io/en/latest/configuration.html
-title: Few-Shot Challenge
-short_description: Random number generation challenge for each submission
-#description: templates/description.html
-#evaluation_details: templates/evaluation_details.html
-#terms_and_conditions: templates/terms_and_conditions.html
+title: Few-shot Industrial Screen Defect Detection Challenge 2025
+short_description: Detect defects on industrial screens with few-shot examples.
+description: templates/description.html
+evaluation_details: templates/evaluation_details.html
+terms_and_conditions: templates/terms_and_conditions.html
 image: logo.jpg
-#submission_guidelines: templates/submission_guidelines.html
+submission_guidelines: templates/submission_guidelines.html
 leaderboard_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras egestas a libero nec sagittis.
-#evaluation_script: evaluation_script.zip
+evaluation_script: evaluation_script.zip
 remote_evaluation: False
 start_date: 2019-01-01 00:00:00
 end_date: 2099-05-31 23:59:59
